@@ -1,0 +1,16 @@
+name = "Cobblemon Refreshed Deluxe"
+author = "ygoroffici"
+version = "0.2.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "692342daf7a34a389f98b324ee9b65f57dfa8bdc38fc1a85999999014945f992"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "./datapacks"
