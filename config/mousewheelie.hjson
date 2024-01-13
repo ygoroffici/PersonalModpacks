@@ -16,7 +16,7 @@
 		// Enables dropping items when holding the drop modifier (alt by default) and clicking on them.
 		// The modifier can be changed in the vanilla controls menu.
 		// default: true
-		enable-drop-modifier: true
+		enable-drop-modifier: false
 		// Enables right-clicking in recipe books/villager trading to swiftly craft/trade.
 		// default: true
 		enable-quick-craft: true
