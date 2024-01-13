@@ -1,0 +1,13 @@
+name = "Fabridash Resurrected"
+filename = "fabridash_resurrected-1.3.1+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/917u5N9K/versions/3RKT5EAj/fabridash_resurrected-1.3.1%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "d4117c10133f57cee3cc856245a31391980f7e14"
+
+[update]
+[update.modrinth]
+mod-id = "917u5N9K"
+version = "3RKT5EAj"
