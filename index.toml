@@ -103,6 +103,11 @@ hash = "210b314d6a52b7e248dea44d90400f5118cc887a34a2b26a19d9c7398603ce4b"
 metafile = true
 
 [[files]]
+file = "datapacks/mysticmons.pw.toml"
+hash = "9b4c982244e76a84b5700179a0acb0ffde1282f2fb217663f16e09543d008ba3"
+metafile = true
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
