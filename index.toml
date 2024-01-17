@@ -69,6 +69,10 @@ file = "config/fallingtree.json"
 hash = "b8e74c22e0dd310dfac5fbc533efd38fad30ede7de7e3c3fc181f6980f0ad56d"
 
 [[files]]
+file = "config/fightorflight.json5"
+hash = "93bb2334c842d812d6d97db807a63d4da61a3d2558e7f0184cdcad340bc1e285"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "4d049eec2b93fd7058aa8a1570754153940e2a552eb115e85384fe16a3e0af1a"
 
@@ -87,6 +91,11 @@ hash = "afaf6d48bfe3b3ce23635e13762f3dd084cd785cde7d01e0c39eeacc298ef6df"
 [[files]]
 file = "config/zoomify.json"
 hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
+
+[[files]]
+file = "datapacks/cobblemon-basic-outbreaks.pw.toml"
+hash = "ff6d701eba0060d97822644a07ccdce8c8ceb9fbe51b225d42ab9101fa50a980"
+metafile = true
 
 [[files]]
 file = "datapacks/item-balls.pw.toml"
@@ -169,6 +178,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/basic-weapons.pw.toml"
+hash = "8401a9839fefcfb5be7f9e8d6c5ec09b5fb17d53d0d1a4232256fc5ce1a9a62f"
+metafile = true
+
+[[files]]
 file = "mods/bbs.pw.toml"
 hash = "e03fd835108b433e522e4ed44a164df5bfb37139cbc20366f8d497db1621b244"
 metafile = true
@@ -196,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
-metafile = true
-
-[[files]]
-file = "mods/bikes.pw.toml"
-hash = "530aac1231062e0f3599c846add377a5bee3df80eed1fe179cce73e3c810aa06"
 metafile = true
 
 [[files]]
@@ -244,8 +253,18 @@ hash = "48eb01cba6e6f5fd8536e373a2f960dc274237363e8bc5f03f4a5ba9c3c3a653"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-fight-or-flight.pw.toml"
+hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "14813a51c44e37a6db1df2cef9649369745788af302a292cc8e89c9664bb44d1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "6833aa9e60d97f5eef743bd6606d3b863fae4a43bbc0c9e4132a9f5317e1ab81"
 metafile = true
 
 [[files]]
@@ -261,11 +280,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
-metafile = true
-
-[[files]]
-file = "mods/cobblemounts.pw.toml"
-hash = "539781b0696417438567653ced099b63edb24bf2f179de2017882f579c0e3bdd"
 metafile = true
 
 [[files]]
@@ -384,6 +398,11 @@ hash = "f95972bcfd722e16976b535ffd4555281256158a2c0a084587ca464d8e83db00"
 metafile = true
 
 [[files]]
+file = "mods/enchantsmith.pw.toml"
+hash = "c3b87926868a5bff29088e266b5f5358bd6ec5dd3c89f9ef32293f9873ab5ef8"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -454,6 +473,11 @@ hash = "040e5a65708704f56121d88d608702fc33ee1084dccb38bef9ca2422f14cd540"
 metafile = true
 
 [[files]]
+file = "mods/fossilmon.pw.toml"
+hash = "1d6e1c99744c0a7e43bfdc79c1e0b8b39b26fa42f064bee36683045d1c660cd8"
+metafile = true
+
+[[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "a1689ce18fdfb1c344f468362c841ac4fc220775753fa1138f2756d73e846155"
 metafile = true
@@ -486,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
+metafile = true
+
+[[files]]
+file = "mods/hoes-are-scythes.pw.toml"
+hash = "35f912cadf4bf8db7560397a39fba7fcd86642b3458cdd1f2c383189023c6fbb"
 metafile = true
 
 [[files]]
@@ -599,11 +628,6 @@ hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
-file = "mods/merchant-markers.pw.toml"
-hash = "57297012141177b334f11fd340f2902845c0c0b545520e59bbf525ed904acf32"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -681,11 +705,6 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
@@ -781,11 +800,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "481554a4e059cda1be174d3942f0c0f0d7158fc8fc985ee332ccc4e2c74894b7"
 metafile = true
 
 [[files]]

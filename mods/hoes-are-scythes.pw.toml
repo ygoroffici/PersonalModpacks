@@ -1,0 +1,13 @@
+name = "Hoes Are Scythes"
+filename = "hoesarescythes-1.2-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/isVl8RsR/versions/lD41LrDa/hoesarescythes-1.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "093346fad65307cea76e0e4f5d26263574d90b57"
+
+[update]
+[update.modrinth]
+mod-id = "isVl8RsR"
+version = "lD41LrDa"

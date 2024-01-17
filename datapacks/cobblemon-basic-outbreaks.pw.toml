@@ -1,0 +1,13 @@
+name = "Cobblemon Basic Outbreaks"
+filename = "Cobblemon Outbreaks Basic Forms.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HGtFVR33/versions/Y186ZL6s/Cobblemon%20Outbreaks%20Basic%20Forms.zip"
+hash-format = "sha1"
+hash = "cc867bfaad0ea44ab497c27592adae96a85985aa"
+
+[update]
+[update.modrinth]
+mod-id = "HGtFVR33"
+version = "Y186ZL6s"
