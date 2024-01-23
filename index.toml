@@ -736,6 +736,11 @@ hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
+metafile = true
+
+[[files]]
 file = "mods/notes.pw.toml"
 hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
 metafile = true
@@ -843,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "c9e207ac405cf9727676fa2fe5cf46c7c3abe810961af82d5c97a2638b1d3140"
 metafile = true
 
 [[files]]
