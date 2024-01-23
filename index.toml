@@ -85,8 +85,16 @@ file = "config/rightclickharvest.json"
 hash = "08d6c6863264deff91deda00462e31e90d6457be3e6ee0c7a1e3c1c7f3bd1d58"
 
 [[files]]
+file = "config/spell_engine/client.json5"
+hash = "23b947f90c85fd2f6654f690df1ee3ba2b9834c69ee2723f0d19ebfe5855ee51"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "bee765b95d2512bbc16f6c946f5a0bff871ad7643aa72e1dc32d316e64da3ee3"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "afaf6d48bfe3b3ce23635e13762f3dd084cd785cde7d01e0c39eeacc298ef6df"
+hash = "8591745bf9d63d2a214ba57adddcf22ed300504efedc720fa4f0ead863fc7320"
 
 [[files]]
 file = "config/zoomify.json"
@@ -100,6 +108,11 @@ metafile = true
 [[files]]
 file = "datapacks/item-balls.pw.toml"
 hash = "210b314d6a52b7e248dea44d90400f5118cc887a34a2b26a19d9c7398603ce4b"
+metafile = true
+
+[[files]]
+file = "datapacks/missingmons-cobblemon.pw.toml"
+hash = "8f70a767c867b2909a9ec5ab58b6b9d37d3cab79f108bf633b61ed6245baacb0"
 metafile = true
 
 [[files]]
@@ -220,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/blast.pw.toml"
 hash = "862ea736639bba6b4740ea077622afa3764c8e0c1e0cf02df085195b3174897c"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
 metafile = true
 
 [[files]]
@@ -398,16 +416,6 @@ hash = "6268093533f8788ee4622eb6d8094823f782a498fc3ef7863b624bf92902b03a"
 metafile = true
 
 [[files]]
-file = "mods/enchanting-infuser.pw.toml"
-hash = "f95972bcfd722e16976b535ffd4555281256158a2c0a084587ca464d8e83db00"
-metafile = true
-
-[[files]]
-file = "mods/enchantsmith.pw.toml"
-hash = "c3b87926868a5bff29088e266b5f5358bd6ec5dd3c89f9ef32293f9873ab5ef8"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -503,6 +511,11 @@ hash = "e9d303b04b5e3e0be3896190cf206fb9a8c85c074d4feef6e03c8b8b9314785e"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "bcd7d721303a7aab552e135c23541e3665886050de5b0bdcdec4ba3a58952da6"
 metafile = true
@@ -550,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/infusion-table.pw.toml"
+hash = "e77763ac8ecd9030f024e44e91efb473d940653b1113abcd50d1eff27e042d3e"
 metafile = true
 
 [[files]]
@@ -653,6 +671,11 @@ hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "053052c73977974636bc6d77dad6d5473533c50ea0a9dfd99eaed1ed27db529f"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "53ffc527d9d82eb70d216ddd3b7bd2c99b0bf281e430fe11cd72d210711cf210"
 metafile = true
@@ -690,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "3ab607e144950809f9bb1a9087c4f65888c3bf133822bb8726d946025c2d4401"
 metafile = true
 
 [[files]]
@@ -808,6 +836,16 @@ hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
+metafile = true
+
+[[files]]
 file = "mods/smoothmenu-refabricated.pw.toml"
 hash = "3d148050146de53864628e6f2b20032ed362236bc84f3486df286f8c7bab5f3d"
 metafile = true
@@ -873,6 +911,11 @@ hash = "f4899afec6500b2a8e3f061abbb6bc34287f3f6992b9e24ba4706d4dad825cc4"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -880,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "3f34eae85f3cf8775e965d58ef584cbe864e78592fa00b59eea50264e1aa68dd"
 metafile = true
 
 [[files]]

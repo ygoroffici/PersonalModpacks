@@ -1,0 +1,13 @@
+name = "MissingMons [cobblemon]"
+filename = "MissingMon [v2.1.2].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/8FMqRW9U/MissingMon%20%5Bv2.1.2%5D.zip"
+hash-format = "sha1"
+hash = "5527fabfcbd32d9de397de32904d3a27ff9bbcf3"
+
+[update]
+[update.modrinth]
+mod-id = "jbbBrQVa"
+version = "8FMqRW9U"

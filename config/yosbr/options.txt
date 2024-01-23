@@ -21,7 +21,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.38028169014084506
+mouseSensitivity:0.5
 fov:0.125
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -100,7 +100,7 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
-key_key.socialInteractions:key.keyboard.p
+key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
@@ -123,8 +123,6 @@ key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unkn
 key_autothirdperson.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
-key_key.bikes.shift_up:key.keyboard.up
-key_key.bikes.shift_down:key.keyboard.down
 key_key.bridgingmod.toggle_bridging:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.keypad.add
 key_key.cavedust.reload:key.keyboard.keypad.enter
@@ -132,7 +130,7 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.cobblemon.hideparty:key.keyboard.o
-key_key.cobblemon.summary:key.keyboard.m
+key_key.cobblemon.summary:key.keyboard.p
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.v
@@ -164,7 +162,7 @@ key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.narrate:key.keyboard.keypad.5
+key_key.jade.narrate:key.keyboard.keypad.6
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_merchantmarkers.key.showMarkers:key.keyboard.left.alt
 key_key.modmenu.open_menu:key.keyboard.unknown
@@ -178,8 +176,9 @@ key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
 key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
 key_key.mousewheelie.deposit_modifier:key.keyboard.space
 key_key.mousewheelie.restock_modifier:key.keyboard.space
+key_key.niftycarts.desc:key.keyboard.y
 key_key.openNotes:key.keyboard.n
-key_key.plasmovoice.settings:key.keyboard.comma
+key_key.plasmovoice.settings:key.keyboard.period
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.toggleVisualItemContents:key.keyboard.unknown
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown
@@ -187,6 +186,7 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.g
 key_key.cycleRight:key.keyboard.h
 key_key.raised.options:key.keyboard.unknown
+key_key.smallships.ship_sail:key.keyboard.y
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
@@ -207,7 +207,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 soundCategory_master:1.0
-soundCategory_music:0.4037558685446008
+soundCategory_music:0.30985915492957744
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
