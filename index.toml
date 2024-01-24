@@ -331,6 +331,11 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "29c2af63ad11f040c4afe58ae941db3b58b165cc88d747ee418829e1ca9cbf0e"
+metafile = true
+
+[[files]]
 file = "mods/csearcher.pw.toml"
 hash = "d05f1fd775f430f93254d12b2855602f179b4c3ee60db4532ad9c64aa48436ba"
 metafile = true
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "9916903175abd5cbb0232340993177b402182ee325e2ae7521f83209355f3bc7"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "77d166c33b6a4287d933235ddccb8dae0ecc6ccf162473c18a902a1a6cc6f8f0"
 metafile = true
 
 [[files]]
@@ -748,11 +758,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "385378a9a9d2a42a3e74876391aa527af960d5150f0cf7d0ec01073c3579ec37"
-metafile = true
-
-[[files]]
-file = "mods/pandas-extra-details.pw.toml"
-hash = "14e96c8f8609859fa649cbe5197827c0c1c5fe61cbb6667910de8a10f18ae0ef"
 metafile = true
 
 [[files]]
