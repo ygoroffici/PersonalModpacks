@@ -73,6 +73,10 @@ file = "config/fightorflight.json5"
 hash = "93bb2334c842d812d6d97db807a63d4da61a3d2558e7f0184cdcad340bc1e285"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "773ba4556ed2accbf9d77ed63bbb7568bd097da5d4228058a88514010427df9a"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "4d049eec2b93fd7058aa8a1570754153940e2a552eb115e85384fe16a3e0af1a"
 
@@ -203,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/bbs.pw.toml"
 hash = "e03fd835108b433e522e4ed44a164df5bfb37139cbc20366f8d497db1621b244"
+metafile = true
+
+[[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "ba9e1f1bfa31c9d36d04b4bd77bc52969f9d29dc4ea16d28312e0fe0b9266848"
 metafile = true
 
 [[files]]
@@ -338,6 +347,21 @@ metafile = true
 [[files]]
 file = "mods/csearcher.pw.toml"
 hash = "d05f1fd775f430f93254d12b2855602f179b4c3ee60db4532ad9c64aa48436ba"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/ctov-gazebo-compat.pw.toml"
+hash = "2bc66889f6f6cc7b823b1f26db193f5ba3eb9e0568d10c30ba58d8049ea17dae"
+metafile = true
+
+[[files]]
+file = "mods/ctov-wizards-compat.pw.toml"
+hash = "790d1068f59d16f93017a7839b8cb81b5a8569d4ac46e547f7f7c17fb80bce41"
 metafile = true
 
 [[files]]
@@ -521,11 +545,6 @@ hash = "e9d303b04b5e3e0be3896190cf206fb9a8c85c074d4feef6e03c8b8b9314785e"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
-metafile = true
-
-[[files]]
 file = "mods/guarding.pw.toml"
 hash = "bcd7d721303a7aab552e135c23541e3665886050de5b0bdcdec4ba3a58952da6"
 metafile = true
@@ -618,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "333ba3267bd04ed6fe6629a4bd67a193887b7cc55df36bc59da3124c1be9a651"
 metafile = true
 
 [[files]]
@@ -753,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
@@ -1023,6 +1052,46 @@ metafile = true
 [[files]]
 file = "mods/your-items-are-safe.pw.toml"
 hash = "5e208f36ad09768d52800158421fbc493a9f688478a0bc2f4668522eb658d501"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "686fec4c95b11d0e352b697c8d5923e0720ff2a4937e07b43ff2df9a28604373"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "7ed6bab812fe2556736e8926992106974588843938d57a4eecf426158cf7ca29"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "713fc0d5fbcc847c3f77b94add82bdb2d0e20f727c018daad1ad2dbfdf337a10"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
 metafile = true
 
 [[files]]
