@@ -77,6 +77,10 @@ file = "config/lithium.properties"
 hash = "773ba4556ed2accbf9d77ed63bbb7568bd097da5d4228058a88514010427df9a"
 
 [[files]]
+file = "config/map_atlases.json5"
+hash = "c4d158772bf598ea92709a6ef20960b96bcb2201596815887bdc18f13cfebe97"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "4d049eec2b93fd7058aa8a1570754153940e2a552eb115e85384fe16a3e0af1a"
 
@@ -122,6 +126,16 @@ metafile = true
 [[files]]
 file = "datapacks/mysticmons.pw.toml"
 hash = "9b4c982244e76a84b5700179a0acb0ffde1282f2fb217663f16e09543d008ba3"
+metafile = true
+
+[[files]]
+file = "datapacks/pokesizes-cobblemon.pw.toml"
+hash = "0b96aa85366e9abeb2d650a8873200a6dd299d8d631ec1f2d1c5023390e76b2a"
+metafile = true
+
+[[files]]
+file = "datapacks/pokmon-fishing.pw.toml"
+hash = "440d1a61df3a55148018f20945932d630159c153c827488ec669bde455f50c2c"
 metafile = true
 
 [[files]]
@@ -235,6 +249,11 @@ hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
+file = "mods/better-underwater-ruins.pw.toml"
+hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
@@ -262,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
 metafile = true
 
 [[files]]
@@ -352,6 +376,16 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
 metafile = true
 
 [[files]]
@@ -465,6 +499,11 @@ hash = "632bc1aa47bd885a1f12401bb2a5f2f1c12b3e5a61b1e6fecef81a7f49ed274b"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
 file = "mods/extra-sounds.pw.toml"
 hash = "e2dea99155daaa807280e64152443b8f56aa64f3bc7b4227c4c78c52637808b8"
 metafile = true
@@ -487,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7f8ae1d282437ebdc5c2318ec5fc603536d33156e9c9bd34ccdda2a25b26e7a0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
 
 [[files]]
@@ -680,6 +724,11 @@ hash = "3ae4a81062547df4f77b55cdcee52f58eb7710a7f12bb42339690261eded2555"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -797,6 +846,11 @@ metafile = true
 [[files]]
 file = "mods/patpatpat.pw.toml"
 hash = "9b4b12002aa27da1fdd7761aba9fb6ccbe01df85f4dd7841687570a27ae8f7e5"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
 metafile = true
 
 [[files]]
@@ -972,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "3f34eae85f3cf8775e965d58ef584cbe864e78592fa00b59eea50264e1aa68dd"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
 
 [[files]]
