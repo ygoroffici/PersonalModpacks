@@ -369,6 +369,16 @@ hash = "29c2af63ad11f040c4afe58ae941db3b58b165cc88d747ee418829e1ca9cbf0e"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
 file = "mods/csearcher.pw.toml"
 hash = "d05f1fd775f430f93254d12b2855602f179b4c3ee60db4532ad9c64aa48436ba"
 metafile = true
@@ -396,11 +406,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-wizards-compat.pw.toml"
 hash = "790d1068f59d16f93017a7839b8cb81b5a8569d4ac46e547f7f7c17fb80bce41"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
@@ -734,8 +739,18 @@ hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "66ad6d3a39ab7957cb20f4212bd592935fbb43753e1153ea8961b856a4a462d6"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "32f2425608f08f02ced7d11816cc03501e89dd3767fa9a28f0e67e48f16bc101"
 metafile = true
 
 [[files]]
@@ -760,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "53ffc527d9d82eb70d216ddd3b7bd2c99b0bf281e430fe11cd72d210711cf210"
+hash = "67ff2abbc88a4052da64b21ebed1d74c35f075e3ec97f3cff0e7fee9dc114711"
 metafile = true
 
 [[files]]
@@ -939,6 +954,11 @@ hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "c9e207ac405cf9727676fa2fe5cf46c7c3abe810961af82d5c97a2638b1d3140"
 metafile = true
@@ -999,6 +1019,11 @@ hash = "eee741186fea663b9fcf6df201e8c611f97e88c2568a1d6cea271673a290253b"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
+metafile = true
+
+[[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "f17025bbc0d13d141d2b4fd0814a241dfbc4944f86b40d409c56dcb9c0ecf609"
 metafile = true
@@ -1036,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/travellerstoasts.pw.toml"
 hash = "fec9206b5e7b9e3638f841ecc48a00aa32e6c2851657be22f68e8dad1e35e960"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
 metafile = true
 
 [[files]]
