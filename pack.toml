@@ -1,12 +1,12 @@
 name = "Cobblemon Refreshed Deluxe"
 author = "ygoroffici"
-version = "0.8.0"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7803179d8d6572848f0dd43802ee79a1dfdd7b50f0d68761210339b9cdd76117"
+hash = "4e46f164da7121dd1fd470cd296f7030f693ff3fe2fab065778d008407b0ab05"
 
 [versions]
 fabric = "0.15.3"

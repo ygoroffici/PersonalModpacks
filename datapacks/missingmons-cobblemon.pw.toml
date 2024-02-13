@@ -1,13 +1,13 @@
 name = "MissingMons [cobblemon]"
-filename = "MissingMon [v2.1.2].zip"
+filename = "MissingMon_v2.3 [The Missing Mask] .zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/8FMqRW9U/MissingMon%20%5Bv2.1.2%5D.zip"
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/moog9Ofd/MissingMon_v2.3%20%5BThe%20Missing%20Mask%5D%20.zip"
 hash-format = "sha1"
-hash = "5527fabfcbd32d9de397de32904d3a27ff9bbcf3"
+hash = "c9e57fe0b8957ba24ad65b0d1c687c6b4aa314e9"
 
 [update]
 [update.modrinth]
 mod-id = "jbbBrQVa"
-version = "8FMqRW9U"
+version = "moog9Ofd"
