@@ -339,6 +339,11 @@ hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
 metafile = true
 
 [[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "a9fd46050fd6ebd562892be00e158441b5a27e3d38416465b9100a2ab684697f"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "3c2b29ba9a3d803ee3472d08242dddbac3db46d1e3fe278774aaa3848d59106b"
 metafile = true
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/copyshot.pw.toml"
 hash = "fcd0a31be8a32d1655b0c0029397daa8bffd0d3e6db2b17d31cb603436448b07"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "12251aed1dde0c3e29c9c042c1193fa9b7d562e0aff5c52dc7579b510bdc1b18"
 metafile = true
 
 [[files]]
@@ -735,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3dc94e55a6473546b81475796c4ecf495fffe3e6ebab00029e0be6ff582fa79c"
 metafile = true
 
 [[files]]
@@ -1101,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "f60af785185f848a206bf8b0e7e115534756f87b2723b16c28f9d9293d9fb004"
 metafile = true
 
 [[files]]
