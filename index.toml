@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "12251aed1dde0c3e29c9c042c1193fa9b7d562e0aff5c52dc7579b510bdc1b18"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
 
 [[files]]
@@ -1123,7 +1123,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "e28434c2cb8b2b23c120104d4855d0d45d5633907f99fff7375195e615d16d50"
+hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
 metafile = true
 
 [[files]]
