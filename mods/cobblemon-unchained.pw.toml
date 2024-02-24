@@ -1,13 +1,13 @@
 name = "Cobblemon Unchained"
-filename = "cobblemon-unchained-1.4-fabric-1.0.2.jar"
+filename = "cobblemon-unchained-1.4-fabric-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/D0mvhf2R/cobblemon-unchained-1.4-fabric-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/bzOAONEm/cobblemon-unchained-1.4-fabric-1.0.3.jar"
 hash-format = "sha1"
-hash = "d1aaa3e88046eba6523791488a7b1d25d59b7ce7"
+hash = "cbb2f08fbc786c67314177796f03db0a79364f81"
 
 [update]
 [update.modrinth]
 mod-id = "wh0wnzrT"
-version = "D0mvhf2R"
+version = "bzOAONEm"

@@ -1,13 +1,13 @@
 name = "AdditionZ"
-filename = "additionz-1.2.3.jar"
+filename = "additionz-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QeSwHM7w/versions/HmtSxBbZ/additionz-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/QeSwHM7w/versions/svAKmjSa/additionz-1.3.1.jar"
 hash-format = "sha1"
-hash = "215ca0a8261076d768e7d5dd17ab8200b2503b89"
+hash = "0a8a871950d2b3d74a2f840aa8e4eb6bb72ee819"
 
 [update]
 [update.modrinth]
 mod-id = "QeSwHM7w"
-version = "HmtSxBbZ"
+version = "svAKmjSa"

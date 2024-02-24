@@ -1,13 +1,13 @@
 name = "Majrusz's Enchantments"
-filename = "majruszs-enchantments-fabric-1.20.1-1.10.6.jar"
+filename = "majruszs-enchantments-fabric-1.20.1-1.10.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jJthQvHv/versions/DnXLdSh0/majruszs-enchantments-fabric-1.20.1-1.10.6.jar"
+url = "https://cdn.modrinth.com/data/jJthQvHv/versions/rFQNFS5b/majruszs-enchantments-fabric-1.20.1-1.10.7.jar"
 hash-format = "sha1"
-hash = "7b4e639cf469c0e0dadb81bb7f8413ae0a7c4755"
+hash = "04ca9319fa014d482abb6830d0120b332b82af35"
 
 [update]
 [update.modrinth]
 mod-id = "jJthQvHv"
-version = "DnXLdSh0"
+version = "rFQNFS5b"

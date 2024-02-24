@@ -1,13 +1,13 @@
 name = "Majrusz's Accessories"
-filename = "majruszs-accessories-fabric-1.20.1-1.5.0.jar"
+filename = "majruszs-accessories-fabric-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6roN0iTa/versions/tOLBHwsc/majruszs-accessories-fabric-1.20.1-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/6roN0iTa/versions/Gdw4iHUL/majruszs-accessories-fabric-1.20.1-1.5.1.jar"
 hash-format = "sha1"
-hash = "bfc1e3764997b47701b3ce524984d2fa8f793cad"
+hash = "9e615c61d452c82d4ef132f7f516e787bdf59bbf"
 
 [update]
 [update.modrinth]
 mod-id = "6roN0iTa"
-version = "tOLBHwsc"
+version = "Gdw4iHUL"

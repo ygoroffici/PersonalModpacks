@@ -110,7 +110,7 @@ hash = "4ef9c4c09768589e5d57cdcdc7b4db9a2c13f6af5f323c96485f1fdcb2a47e5d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8591745bf9d63d2a214ba57adddcf22ed300504efedc720fa4f0ead863fc7320"
+hash = "62d9ce2a93488253133f6519e3c26b9923fb0741b9d5c9e35514ebc4f68e6674"
 
 [[files]]
 file = "config/zoomify.json"
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/additionz.pw.toml"
-hash = "44317fed766b060bd5f6e86833dbf7cb33bd6f5505b6fbb1ff3bee3050649427"
+hash = "c5d6a873dcb3de17b01e7c5ec862f076b63de0cd8e435abbd0cf5f1c79fdd087"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b4dc24583775255f53ce8a6e889bb23d7b30d3ac85a2e033079d3269a089ce5a"
+hash = "8b97f5f0d491249d5e0df32d48e70c54dcf4cbee848ae590895dcd91b9114b30"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unchained.pw.toml"
-hash = "de54263ec62c352bc3ca8bc3796aa1598887b0688f4cc3fe7d15c05043a6eb68"
+hash = "e4c8d8ee3c0dae35ec59e62b88e3aa3bf7fc7f059cb769d16e152042ec40e7d2"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+hash = "873040795be9cbdbbfc6254e3d8cee267c275cfcc9fa30b6af3461898740e0ef"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0ede0bfc2d0a60ac98d31ff437f49d3647b3af8f22071c7e13568d1097356dc3"
+hash = "cc7100eee64f1e580cfbf55002240cc3a5d2298db69ed864a0c4712c886dbce6"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -678,12 +678,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders.pw.toml"
-hash = "886ec9532b2ab57d9e0921283b2fbfa4e13460f955172c166ad28b171871dd81"
+hash = "73d37e2743f413f9e0d55a0dad15240093cf22c4b856e8539058d84632ad1f5f"
 metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
+hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/labelling-containers.pw.toml"
-hash = "65e41491623092b59bc6c535d1474d47e08d005a95a669a4d48ab59e6136bf07"
+hash = "a01c62d789289cac6a341cffc8146929aedcb5b13cb7fb10efd8a5c70c54a8a3"
 metafile = true
 
 [[files]]
@@ -738,12 +738,12 @@ metafile = true
 
 [[files]]
 file = "mods/majruszs-accessories.pw.toml"
-hash = "087560e8aad49fc39cdf82f45ba97f5359ee09458588a5f4c257b21fb8df95a6"
+hash = "85ff1e07b4d2069abb5c768f2133ceaaabd2d5bbb52b5a9ed4dad07c910f6e8b"
 metafile = true
 
 [[files]]
 file = "mods/majruszs-enchantments.pw.toml"
-hash = "3ae4a81062547df4f77b55cdcee52f58eb7710a7f12bb42339690261eded2555"
+hash = "f92fdeb887cebc5f07ce13ce359f53895c25269882c3ca58b524ff933c82c463"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "255dc3b41247220b9bc1fa28c927192c089b2a4c745f55224afe29ef7970827c"
+hash = "c420b290af641b9370ddd90e2141b4a6575fbc84b0f36de6c06e26c1b3819958"
 metafile = true
 
 [[files]]
@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "98238b40e54f717063e49b3672815b23f2be871a8d297f8c964339dd518cbf10"
+hash = "bae708440354af3a72d45b528ad62fa9a861f5656e447dd6227a084d358a261e"
 metafile = true
 
 [[files]]
@@ -918,7 +918,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "aa8fddd03c7498d87646cec809d8882b57df91eca30f3c5d0a7ccf42ab4266d5"
+hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
 metafile = true
 
 [[files]]
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "bdef145ae9d90efeb7d4e326e3e39b588e1183c9acb9eb2680d95e4d5386d889"
+hash = "1bc20fab7f118d999f2d66a5d45742120497509bbb5a42d3923c6eafaa234de5"
 metafile = true
 
 [[files]]
@@ -1038,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4ffea2ce87853a9d9f2342bd28f422447f52647c319cf2392968cabc4539da54"
+hash = "794e4285e559037eae571f43b94d6bd3193d046896731d497c0c6b688bcaac87"
 metafile = true
 
 [[files]]
