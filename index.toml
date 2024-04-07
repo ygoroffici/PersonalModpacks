@@ -327,11 +327,6 @@ hash = "14813a51c44e37a6db1df2cef9649369745788af302a292cc8e89c9664bb44d1"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "6833aa9e60d97f5eef743bd6606d3b863fae4a43bbc0c9e4132a9f5317e1ab81"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "a88f225aa052c1fe254caec81f9f5a498b315b7b2666e9ec2b05725af2fdb600"
 metafile = true
@@ -384,16 +379,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "29c2af63ad11f040c4afe58ae941db3b58b165cc88d747ee418829e1ca9cbf0e"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
@@ -972,11 +957,6 @@ hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "3038b05f64f6b309a29c9cc523eb87e76dcaffcb4bb6eeebd843e02ecc1e0384"
 metafile = true
@@ -1079,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/travellerstoasts.pw.toml"
 hash = "456c767f84b8d4637c3fbc0644362619f0b64cf85e190455f1059f2b8887abe7"
-metafile = true
-
-[[files]]
-file = "mods/trimmable-tools.pw.toml"
-hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
 metafile = true
 
 [[files]]
