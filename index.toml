@@ -852,6 +852,11 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "11aa8da6a60bd5f614f9208ad4f30a381fa4fc406ec57a51bb370811f73fe4fd"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "385378a9a9d2a42a3e74876391aa527af960d5150f0cf7d0ec01073c3579ec37"
 metafile = true
@@ -1114,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/wool-tweaks.pw.toml"
 hash = "ac1960d9c00d95555a7abe0750c3fbfac3446db67b4385b54269ee422d9e11a1"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "6f4ce82de5399daf1dd136b34550cbd0b1bee4f68c4118233472af41c7e6d45e"
 metafile = true
 
 [[files]]
